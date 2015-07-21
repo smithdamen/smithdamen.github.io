@@ -3,7 +3,7 @@ layout: post
 title: Second Additional Post
 ---
 
-#Some more practice with Markdown
+##Some more practice with Markdown
 
 This is the second addtional post containing slightly more words in this sentence. 
 
