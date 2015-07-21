@@ -3,7 +3,7 @@ layout: post
 title: Practice Using Markdown
 ---
 
-#First look at using Markdown
+##First look at using Markdown
 ###Using headings is simple and easy
 
 #####Advantages of Markdown
