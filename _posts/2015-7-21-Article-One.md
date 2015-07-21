@@ -16,3 +16,6 @@ A quote from Rima:
 >You guys don't get a break
 
 [This is a link!](https://help.github.com/articles/markdown-basics/)
+___
+Check out these sweet horizontal rules!
+___
