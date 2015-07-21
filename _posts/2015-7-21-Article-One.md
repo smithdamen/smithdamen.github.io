@@ -1,6 +1,18 @@
 ---
 layout: post
-title: First Additional Post
+title: Practice Using Markdown
 ---
 
-This is the first additional post added for the lab.
+#First look at using Markdown
+###Using headings is simple and easy
+
+#####Advantages of Markdown
+1. Quick to learn
+2. Documentation widely available
+3. Easier tags than HTML
+4. Great for static pages
+
+A quote from Rima: 
+>You guys don't get a break
+
+[This is a link!](https://help.github.com/articles/markdown-basics/)
