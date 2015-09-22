@@ -1,0 +1,17 @@
+---
+layout: post
+title: Second Additional Post
+---
+
+###### DMS Web Design
+
+<!--link description here-->
+These days, everyone needs a website. Whether you're displaying an online portfolio, or showcasing your newest line of products, you need a website to put them on.
+
+<!--Image Here-->
+![code](https://website-designs.com/wp-content/uploads/html.jpg =470px)
+
+### Web Design & UI/UX Design
+
+<!--body text here-->
+Learning to code a website with no prior experience can take weeks or months to do. Using an online website generator like Wordpress, WIX, or SquareSpace can be confusing and expensive. Enlist the help of a young web design professional to assist you in getting exactly what you want out of your website.
