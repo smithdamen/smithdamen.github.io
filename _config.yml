@@ -75,3 +75,17 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    - OAuth_clientID.txt
+
+# Google Analytics Plugin
+jekyll_ga:
+  service_account_email: smith.damen@gmail.com    # service account email address
+  key_file: privatekey.p12  # service account private key file
+  key_secret: notasecret    # service account private key's password
+  profileID: ga:97759603       # profile ID
+  start: last month         # Beginning of report
+  end: now                  # End of report
+  metric: ga:pageviews      # Metric code
+  segment:                  # optional
+  filters:                  # optional
+  sort: true                # Sort posts by this metric

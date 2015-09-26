@@ -2,7 +2,12 @@ TODO
 
 
 1. 3 posts to MixIndex product blog
+  * What is Mix Index?
+  * How Mix Index can change how you bartend
 2. Write 5 brief blog posts on Jekyll blog
+  <!--* personal update-->
+  * my workflow
+  * free learning resources I've used
 3. Add email signup from Mailchimp to site
 4. Compose and send 3 emails from Mailchimp containing no less than 200 words
 5. Add testimonials to MixIndex Page
@@ -20,7 +25,7 @@ TODO
   * Select 3 social networks to use
   * Promote my content
   *
-14. Enable Google Analytics on my account
+<!--14. Enable Google Analytics on my account-->
 15. Create 5 graphics targeted for social sharing and embed them on accounts/blog
 [https://drive.google.com/file/d/0B3Inp8pGOhPYYW5wRFFpYXVzNTQ/view](Templates for Social Sharing)
 16. Create editorial calendar for content & publish calendar to blog
