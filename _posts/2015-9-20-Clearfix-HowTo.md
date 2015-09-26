@@ -1,4 +1,8 @@
-# How-To Get Out Of CSS Layout Hell
+---
+layout: post
+title: How-To: Get Out of CSS Layout Hell
+---
+
 
 ### CSS clearfixes made simple and quick
 

@@ -6,11 +6,13 @@ TODO
 3. Add email signup from Mailchimp to site
 4. Compose and send 3 emails from Mailchimp containing no less than 200 words
 5. Add testimonials to MixIndex Page
-7. Compose article for MIUCreates Newsletter
+<!--7. Compose article for MIUCreates Newsletter-->
 8. Create  "curated content" article on my blog
-9. Create a "how-to" article on my blog
-  * Easy clearfixes
+  * Developing from a Chromebook
+<!--9. Create a "how-to" article on my blog-->
+<!--  * Easy clearfixes-->
 10. Create a "list" content article on my blog
+  * best (grunt?) plugins for making developing easier
 11. Write a newsjacking story
 12. Write 1 article from Calendar Template
 [https://docs.google.com/document/d/1IyfIhddwarCAyPLiQxbC_tqVP1rOKCLR6V1JDcX5wSg/pub](Content Editing Checklist)
@@ -22,7 +24,7 @@ TODO
 15. Create 5 graphics targeted for social sharing and embed them on accounts/blog
 [https://drive.google.com/file/d/0B3Inp8pGOhPYYW5wRFFpYXVzNTQ/view](Templates for Social Sharing)
 16. Create editorial calendar for content & publish calendar to blog
-17. Publish and article from Editorial Calendar & revice using content editing checklist
+17. Publish and article from Editorial Calendar & revise using content editing checklist
 18. Review articles from css-tricks [https://css-tricks.com/almanac/almanac-oldest/](That need updating)
 19. Write updated article using [http://codepen.io/chriscoyier/pen/Hafmz](template)
 20. Create pricing table for services/products
