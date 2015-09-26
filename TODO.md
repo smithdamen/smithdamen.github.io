@@ -9,6 +9,7 @@ TODO
 7. Compose article for MIUCreates Newsletter
 8. Create  "curated content" article on my blog
 9. Create a "how-to" article on my blog
+  * Easy clearfixes
 10. Create a "list" content article on my blog
 11. Write a newsjacking story
 12. Write 1 article from Calendar Template
