@@ -29,7 +29,7 @@ TODO
 15. Create 5 graphics targeted for social sharing and embed them on accounts/blog
 [https://drive.google.com/file/d/0B3Inp8pGOhPYYW5wRFFpYXVzNTQ/view](Templates for Social Sharing)
 16. Create editorial calendar for content & publish calendar to blog
-17. Publish and article from Editorial Calendar & revise using content editing checklist
+17. Publish an article from Editorial Calendar & revise using content editing checklist
 18. Review articles from css-tricks [https://css-tricks.com/almanac/almanac-oldest/](That need updating)
 19. Write updated article using [http://codepen.io/chriscoyier/pen/Hafmz](template)
 20. Create pricing table for services/products
