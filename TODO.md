@@ -8,7 +8,7 @@ TODO
   <!--* personal update-->
   * my workflow
   * free learning resources I've used
-3. Add email signup from Mailchimp to site
+<!--3. Add email signup from Mailchimp to site-->
 4. Compose and send 3 emails from Mailchimp containing no less than 200 words
 5. Add testimonials to MixIndex Page
 <!--7. Compose article for MIUCreates Newsletter-->
