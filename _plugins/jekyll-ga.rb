@@ -24,7 +24,7 @@ module Jekyll
       )
 
       # Load our credentials for the service account
-      key = Google::APIClient::KeyUtils.load_from_pkcs12(ga['key_file'], ga['key_secret'])
+      key = Google::APIClient::KeyUtils.load_from_pkcs12('client.p12', 'notasecret')
       client.authorization = Signet::OAuth2::Client.new(
         :token_credential_uri => 'https://accounts.google.com/o/oauth2/token',
         :audience => 'https://accounts.google.com/o/oauth2/token',
