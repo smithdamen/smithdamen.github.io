@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-To: Get Out of CSS Layout Hell
+title: How-To Get Out of CSS Layout Hell
 ---
 
 

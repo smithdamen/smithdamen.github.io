@@ -12,8 +12,8 @@ TODO
 4. Compose and send 3 emails from Mailchimp containing no less than 200 words
 5. Add testimonials to MixIndex Page
 <!--7. Compose article for MIUCreates Newsletter-->
-8. Create  "curated content" article on my blog
-  * Developing from a Chromebook
+<!--8. Create  "curated content" article on my blog-->
+  <!--* Developing from a Chromebook-->
 <!--9. Create a "how-to" article on my blog-->
 <!--  * Easy clearfixes-->
 10. Create a "list" content article on my blog
