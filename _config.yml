@@ -80,8 +80,8 @@ exclude:
 # Google Analytics Plugin
 jekyll_ga:
   service_account_email: smith.damen@gmail.com    # service account email address
-  key_file: 982515167236-n3i57e5op4r6tic6ice5s2jmrdkuqp7p.apps.googleusercontent.com  # service account private key file
-  key_secret: rIgVInPxBJtHPrTWYQB-HTdC    # service account private key's password
+  key_file: client.p12  # service account private key file
+  key_secret: notasecret    # service account private key's password
   profileID: ga:109144219   # profile ID
   start: last month         # Beginning of report
   end: now                  # End of report
