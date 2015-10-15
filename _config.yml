@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: smithdamen
+  instagram: introsp3ctive
+  linkedin: damensmith
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: DamenSmith# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-68144294-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -80,7 +80,7 @@ exclude:
 # Google Analytics Plugin
 jekyll_ga:
   service_account_email: smith.damen@gmail.com    # service account email address
-  key_file: client.p12  # service account private key file
+  key_file: client.json  # service account private key file
   key_secret: notasecret    # service account private key's password
   profileID: ga:109144219   # profile ID
   start: last month         # Beginning of report
